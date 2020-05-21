@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e8b9232-a0ce-4347-8741-cde5472981ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="heima-leadnews-app" />
+  </component>
+  <component name="ProjectId" id="1YdVbRdE3UnsCMqzjFRuLHpilVm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\WebStorm 2018.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\heima_leadnews\code\heima-leadnews-app\src\stores" />
+      <recent name="D:\heima_leadnews\code\heima-leadnews-app\src\pages" />
+      <recent name="D:\heima_leadnews\code\heima-leadnews-app\src\utils" />
+      <recent name="D:\heima_leadnews\code" />
+      <recent name="D:\course_code\hmtt\heima-leadnews-app\src\styles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\heima_leadnews\code\heima-leadnews-app\src\apis\home" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e8b9232-a0ce-4347-8741-cde5472981ed" name="Default Changelist" comment="" />
+      <created>1566103707728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566103707728</updated>
+      <workItem from="1566103709102" duration="5042000" />
+      <workItem from="1566122171582" duration="11000" />
+      <workItem from="1566185353967" duration="2396000" />
+      <workItem from="1567771837952" duration="189000" />
+      <workItem from="1567821475387" duration="8086000" />
+      <workItem from="1567905986387" duration="4696000" />
+      <workItem from="1567913881320" duration="7536000" />
+      <workItem from="1567992736795" duration="39581000" />
+      <workItem from="1568267756489" duration="1405000" />
+      <workItem from="1583272551876" duration="1325000" />
+      <workItem from="1583275057904" duration="519000" />
+      <workItem from="1583275662209" duration="11000" />
+      <workItem from="1583275764801" duration="631000" />
+      <workItem from="1583323108963" duration="14600000" />
+      <workItem from="1583449378574" duration="1954000" />
+      <workItem from="1589585971678" duration="879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="253" key="GridCell.Tab.0.bottom" timestamp="1583676216182">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583676216182" />
+    <state width="1899" height="253" key="GridCell.Tab.0.center" timestamp="1583676216181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583676216181" />
+    <state width="1899" height="253" key="GridCell.Tab.0.left" timestamp="1583676216181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583676216181" />
+    <state width="1899" height="253" key="GridCell.Tab.0.right" timestamp="1583676216182">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583676216182" />
+    <state x="809" y="137" width="647" height="801" key="find.popup" timestamp="1583443931899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="809" y="137" width="647" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583443931899" />
+  </component>
+</project>
