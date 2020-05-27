@@ -1,4 +1,4 @@
-
+/*
 package com.heima.behavior.service.impl;
 
 import com.heima.behavior.service.AppShowBehaviorService;
@@ -68,4 +68,4 @@ public class AppShowBehaviorServiceImpl implements AppShowBehaviorService {
         return ResponseResult.okResult(0);
     }
 }
-
+*/
