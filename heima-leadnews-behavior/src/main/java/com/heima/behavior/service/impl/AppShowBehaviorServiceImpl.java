@@ -38,7 +38,7 @@ public class AppShowBehaviorServiceImpl implements AppShowBehaviorService {
         if (user!=null){
             userId=user.getId();
         }
-        ApBehaviorEntry apBehaviorEntry = apBehaviorEntryMapper.selectUserIdOrEquipmentId(userId,dto.getEquipmentId());
+        ApBehaviorEntry apBehaviorEntry = apBehaviorEntryMapper.selectByUserIdOrEquipemntId(userId,dto.getEquipmentId());
 
         if (apBehaviorEntry==null){
             return  ResponseResult.errorResult(AppHttpCodeEnum.PARAM_INVALID);

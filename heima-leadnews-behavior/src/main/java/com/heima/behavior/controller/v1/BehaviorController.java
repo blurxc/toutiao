@@ -1,8 +1,11 @@
 package com.heima.behavior.controller.v1;
 
-import com.heima.article.apis.BehaviorControllerApi;
+import com.heima.behavior.apis.BehaviorControllerApi;
 import com.heima.behavior.service.AppShowBehaviorService;
+import com.heima.model.behavior.dtos.LikesBehaviorDto;
+import com.heima.model.behavior.dtos.ReadBehaviorDto;
 import com.heima.model.behavior.dtos.ShowBehaviorDto;
+import com.heima.model.behavior.dtos.UnLikesBehaviorDto;
 import com.heima.model.common.dtos.ResponseResult;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -21,6 +24,21 @@ public class BehaviorController implements BehaviorControllerApi {
     @RequestMapping("/save_behavior")
     public ResponseResult saveShowBehavior(@RequestBody ShowBehaviorDto dto) {
         return appShowBehaviorService.saveShowBehavior(dto);
+    }
+
+    @Override
+    public ResponseResult saveLikesBehavior(LikesBehaviorDto dto) {
+        return null;
+    }
+
+    @Override
+    public ResponseResult saveUnlikesBehavior(UnLikesBehaviorDto dto) {
+        return null;
+    }
+
+    @Override
+    public ResponseResult saveReadBehavior(ReadBehaviorDto dto) {
+        return null;
     }
 
 }

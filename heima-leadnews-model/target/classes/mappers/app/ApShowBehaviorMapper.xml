@@ -11,15 +11,15 @@
         <result column="created_time" property="createdTime" />
     </resultMap>
     <sql id="Base_Column_List" >
-        id, entry_id, article_id, is_click, show_time, created_time
-    </sql>
+    id, entry_id, article_id, is_click, show_time, created_time
+  </sql>
     <select id="selectListByEntryIdAndArticleIds" resultMap="BaseResultMap">
         select
-        <include refid="Base_Column_List"></include>
+          <include refid="Base_Column_List"></include>
         from ap_show_behavior where entry_id = #{entryId} and article_id in (
-        <foreach collection="articleIds" item="item" separator=",">
-            #{item}
-        </foreach>
+          <foreach collection="articleIds" item="item" separator=",">
+              #{item}
+          </foreach>
         )
     </select>
 
